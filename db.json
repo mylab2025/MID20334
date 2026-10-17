@@ -9,7 +9,7 @@
       "MID": "mid20334",
       "MD": "SGM2210-3.3XN5G/TR is MAX of 20V input and fixed 3.3V@300mA out LDO voltage regulator with Vdrop = 0.24V. Package: SOT-23-5.",
       "MT": "Electronic Material",
-      "MQNT": 0,
+      "MQNT": 10,
       "MQATG": "#CLASS_0",
       "ML": "120",
       "MCost": 56.83,
